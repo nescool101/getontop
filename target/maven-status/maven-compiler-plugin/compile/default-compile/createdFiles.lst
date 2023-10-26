@@ -1,15 +1,12 @@
 com/javagetontop/controller/TransactionController.class
 com/javagetontop/repository/TransactionRepository.class
 com/javagetontop/model/TransactionStatus.class
-com/javagetontop/model/Student.class
 com/javagetontop/model/Transaction.class
 com/javagetontop/SpringBootH2DatabaseExampleApplication.class
 com/javagetontop/repository/BankAccountRepository.class
-com/javagetontop/service/StudentService.class
 com/javagetontop/model/UserWallet.class
-com/javagetontop/controller/StudentController.class
+com/javagetontop/service/TransactionService.class
 com/javagetontop/dto/TransactionDto.class
 com/javagetontop/model/Transaction$TransactionStatus.class
-com/javagetontop/repository/StudentRepository.class
 com/javagetontop/model/BankAccount.class
 com/javagetontop/repository/WalletRepository.class
