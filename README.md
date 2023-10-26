@@ -36,3 +36,7 @@ PRIMARY KEY (id)
 INSERT INTO user_wallets (user_id, balance, creation_date) VALUES (101, 100.00, CURRENT_TIMESTAMP);
 INSERT INTO user_wallets (user_id, balance, creation_date) VALUES (102, 200.00, CURRENT_TIMESTAMP);
 INSERT INTO user_wallets (user_id, balance, creation_date) VALUES (103, 300.00, CURRENT_TIMESTAMP);
+
+
+3. compile the application with maven, do maven clean, do maven, verify and then maven install,
+4. finnally go to SpringBootH2DatabaseExampleApplication to run the app
